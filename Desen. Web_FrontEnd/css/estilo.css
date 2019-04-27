@@ -1,0 +1,167 @@
+/*CSS do Menu*/
+#PaginaInicial{
+    color: white;
+    position: absolute;
+    width: 25%;
+    left: 25%;
+    top: 25%;
+}
+#Cardapio{
+    color: white;
+    position: absolute;
+    width: 10%;
+    left: 38%;
+    top: 25%;
+}
+#QuemSomos{
+    color: white;
+    position: absolute;
+    width: 12%;
+    left: 50%;
+    top: 25%;
+}
+#Contato{
+    color: white;
+    position: absolute;
+    width: 10%;
+    left: 65%;
+    top: 25%;
+}
+/*CSS dos Links do Menu*/
+#links{
+    color: white;
+    text-decoration: none;
+    background-color: transparent
+}
+/*CSS dos Textos do Menu*/
+.Texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+/*CSS Faca Seu Pedido*/
+#goPedido{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    top: 20px;
+    position: relative;
+    left: 200px;
+}
+/*CSS btn Fazer Pedido*/
+.btnPedido{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    border-bottom-style:hidden;
+
+    cursor: pointer;
+    text-decoration: none;
+    background: orange;
+    color: white;
+ }
+ .btnPedido{
+     position: absolute;
+     left: 65%;
+     top: 700px;
+     border-color: orange;
+     border-style: solid;
+ }
+/*CSS Foto Fundo Cardapio*/
+#fundoCardapio{
+    z-index: -1;
+ }
+ /*CSS do texto da ptRestaurante*/
+ #txtPratos{
+    top: 700px;
+    text-align: center;
+    font-size: 25px;
+ }
+ #pt1TxtPratos{
+    position: relative;
+    top: 150px;
+    font-family: Bradley Hand, cursive;
+    color: black;
+    background-color: white;
+
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+ }
+ /*CSS txtRestaurante*/
+#txtRestaurante{
+    position: relative;
+    top: 55px;
+    font-family: Bradley Hand, cursive;
+    color: black;
+    background-color: white;
+
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    left: 700px;
+    font-size: 25px;
+}
+/*CSS btn Ver Cadapios*/
+.btnPratos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    border-bottom-style:hidden;
+
+    cursor: pointer;
+    text-decoration: none;
+    background: orange;
+    color: white;
+ }
+ .btnPratos{
+     width: 150px;
+     position: absolute;
+     left: 850px;
+     top: 420px;
+     border-width: 8px;
+     border-color: orange;
+     border-style: solid;
+ }
+ /*CSS Redes Sociais*/
+ #divRedesSociais{
+    top: -60px;
+    position: relative;
+    z-index: 1;
+    text-align: right;
+
+}
+
+/*Css da caixa de dialogo*/
+#dialogo1{
+    position: absolute;
+    background-color: gray;
+    width: 35%;
+    height: 400px;
+    border-color:black;
+    border-style: solid;
+    text-align: right;
+    left: 30%;
+    top: 20%;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

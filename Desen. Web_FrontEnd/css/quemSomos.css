@@ -1,0 +1,13 @@
+/*CSS da Pagina Quem Somos*/
+#divQuemSomos{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+}
+#imgQuemSomos{
+    width: 100%;
+    top: 15%;
+    height: 400px;
+    position: absolute;
+}

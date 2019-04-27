@@ -1,0 +1,79 @@
+* { margin: 0; padding: 0; }
+/*CSS PaginaToda*/
+#PaginaToda{
+    height: 100%;
+    width: 100%;
+}
+/*CSS Body*/
+#body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(236, 232, 227)
+}
+/*CSS do Cabeçalho*/
+.Cabecalho{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 17%;
+    opacity: 0.8;
+
+    background-color:black;
+}
+/*CSS dos Banners*/
+#Banners{
+    position: relative;
+    width: 100%;
+}
+
+/*CSS ptCardapio*/
+#ptCardapio{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+/*CSS foto Cardapio*/
+#ftCardapio{
+    height: 400px;
+    width: 30%;
+    float: left;
+
+    background-color: darkslategrey;
+}
+/*CSS ptRestaurante*/
+#ptRestaurante{
+    height: 400px;
+    background-color: brown;
+}
+/*CSS txtPratos*/
+#txtPratos{
+    position: absolute;
+    top: 805px;
+    height: 400px;
+    width: 30%;
+    float: left;
+    
+    text-align: center;
+    font-size: 25px;
+    font-family: Courier, monospace;    
+}
+
+/*CSS PreRodape*/
+#PreRodape{
+    height: 70px;
+    background-color: black;
+    top: 90%;
+}
+/*CSS do Rodape*/
+.Rodape{
+    top: 100%;
+    background-color: gray;
+}
+.Rodape #p1{
+    float: right;
+    text-align:right;
+}
+.Rodape #p2{
+    text-align:left;
+}
+

@@ -1,0 +1,21 @@
+/*CSS DA PAGINA DE CONTATO*/
+/*CSS de h2 Contato*/
+#txtContato{
+    height: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font: 700;
+    font-size: 20px;
+    color: black;
+}
+#txtContato2{
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    font: 500;
+    font-size: 12px;
+    color: black;
+}
+/*CSS do Formulario*/
+#formulario {
+    font-family: 'Courier New', Courier, monospace;
+}
